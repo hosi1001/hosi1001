@@ -6,8 +6,11 @@
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="left" src="https://github-readme-stats.vercel.app/api?username=hosi1001&count_private=true&theme=rose_pine&show_icons=true" />
 </a>
-<a href="https://github.com/anuraghazra/github-readme-stats">
+<!-- <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hosi1001&layout=compact&theme=rose_pine" />
+</a> -->
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hosi1001&theme=rose_pine" />
 </a>
 <!---
 hosi1001/hosi1001 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
